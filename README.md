@@ -6,7 +6,7 @@ These are the gerber and Kicad-Files for the Hexagon-DNA-Lamp. The 3D-Model as w
 
 As the PCB is within the 10x10cm-boundaries, you can have them manufactured very cheaply from your favorite PCB-manufacturer. I paid around 5$ (+shipping) for 10 PCBs on JLCPCB, which is supercheap, and the quality is superb.
 
-![Actual PCB](/img/hex-dna-pcb.png)
+![Actual PCB](/img/hex-dna-pcb.jpg)
 
 ## Assembly
 
