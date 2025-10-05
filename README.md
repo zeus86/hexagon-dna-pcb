@@ -12,4 +12,4 @@ As the PCB is within the 10x10cm-boundaries, you can have them manufactured very
 
 Assembly instructions are in the [printables-project](https://www.printables.com/model/1434750).
 
-!Assembled PCB](/img/hex-dna-pcb-assembled.jpg)
+![Assembled PCB](/img/hex-dna-pcb-assembled.jpg)
