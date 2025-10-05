@@ -1,6 +1,6 @@
 # Hexagon-DNA - PCB and gerber files
 
-These are the gerber and Kicad-Files for the Hexagon-DNA-Lamp. The 3D-Model as well as some pictures can be found on my [printables-project](https://www.printables.com/model/1434750).  
+These are the gerber and Kicad-Files for the Hexagon-DNA-Lamp. The 3D-Model as well as some pictures can be found on my [printables-project](https://www.printables.com/model/1434750-hexagon-dna-lamp).  
 
 ![Rendered PCB](/img/hex-dna-pcb-render.png) 
 
