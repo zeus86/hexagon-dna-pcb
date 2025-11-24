@@ -10,11 +10,11 @@ I mean what can I say: It is absolutely impressive how far hobby-level pcb-manuf
 
 Some closeup-images can be found in [here](/img). The white PCBs are the corrected version which were manufactured by PCBWay. They have the power-pinouts now mirrored, so that JST-XH-Plugs fit the right way around. All of them function perfectly fine, and I like the white as much as the purple ones. I really should try out some other colors next time :) . 
 
-![Actual PCB](/img/hex-dna-pcb.jpg)
+![Actual PCB](/img/pcb_v1/hex-dna-pcb.jpg)
 
 ## Assembly
 
 Assembly instructions are in the [printables-project](https://www.printables.com/model/1434750).
 
-![Assembled PCB](/img/jlcpcb_v1/hex-dna-pcb-assembled.jpg)  
-![Bare PCB (corrected Version)](/img/pcbway_v2/04_front.jpg)  
+![Assembled PCB](/img/hex-dna-pcb-assembled.jpg)  
+![Bare PCB (corrected Version)](/img/pcb_v2/04_front.jpg)  
