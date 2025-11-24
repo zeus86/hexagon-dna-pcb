@@ -5195,7 +5195,7 @@
 				)
 			)
 		)
-		(property "Value" "LED1 VCC GND"
+		(property "Value" "LED1 GND VCC"
 			(at 2.5 2.5 0)
 			(layer "F.SilkS")
 			(uuid "9a95e201-8c8c-4ec6-8f1a-528ba509abae")
